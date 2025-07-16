@@ -12,7 +12,7 @@ Suponha que você está trabalhando no Ministério da Saúde e está trabalhando
 
 Para isso, utiliza-se a fórmula seguinte:
 
-$$ P = Po \* x ^\frac{t}{7} $$
+$$ P = Po* x ^\frac{t}{7} $$
 
 <!-- ![P = Po _ x ^\frac{t}{7}](https://i.imgur.com/xT7rwGh.png) -->
 
@@ -34,7 +34,7 @@ Para uma situação em que os valores são:
 **x =** 4 \
 **t =** 7
 
-$$ P = 1000 \* 4 ^\frac{7}{7} $$
+$$ P = 1000* 4 ^\frac{7}{7} $$
 
 $$ P = 4000 $$
 
