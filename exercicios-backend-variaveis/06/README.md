@@ -28,7 +28,7 @@ $$ Velocidade = 50 m/s $$
 
 Para converter esse valor em _km/h_:
 
-$$ Velocidade = 50 \* 3,6 $$
+$$ Velocidade = 50 * 3,6 $$
 
 $$ Velocidade = 180km/h $$
 
