@@ -19,11 +19,11 @@ Considerando a equação de segundo grau abaixo:
 
 $$ 5x^2 + 5x + 1 = 0 $$
 
-$$ delta = 5^2 - 4 \* 5 \* 1 $$
+$$ delta = 5^2 - 4 * 5 * 1 $$
 
 $$ delta = 25 - 20
 
-$$ delta = 5 $$
+$$ delta = 5 $
 
 Faça um programa que calcula o valor de delta a partir desses coeficientes em uma equação do segundo grau com valores a sua escolha.
 
