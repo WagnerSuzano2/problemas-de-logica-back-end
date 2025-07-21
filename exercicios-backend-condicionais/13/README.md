@@ -14,7 +14,7 @@ A Loja do Juninho está com uma super promoção. E na compra de qualquer produt
 
 **a)** Faça um programa que verifica o tipo de desconto, calcule o valor do produto com o desconto e imprima o resultado. O valor final do produto após o desconto pode ser encontrado com a fórmula:
 
-$$ valorFinal = valorDoProduto - (valorDoProduto \* desconto)$$
+$$ valorFinal = valorDoProduto - (valorDoProduto * desconto)$$
 
 Lembre-se de cuidar para que o valor monetário tenha sempre duas casas decimais, apenas.
 
@@ -28,7 +28,7 @@ const valorDoProduto = 13000;
 
 Para o exemplo acima, o valor final é:
 
-$$ valorFinal = 13000 - (13000\*0.05)$$
+$$ valorFinal = 13000 - (13000*0.05)$$
 
 $$ valorFinal = 12350$$
 
