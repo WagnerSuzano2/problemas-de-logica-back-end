@@ -6,3 +6,13 @@ const quantidadeDoParcelamento = 10;
 
 //valor pago
 const valorPago = 300;
+
+let valorParcela = valorDoProduto / quantidadeDoParcelamento / 100;
+
+let restanteparcelas = valorPago / valorParcela;
+
+console.log(
+  `Restam ${
+    quantidadeDoParcelamento - restanteparcelas
+  } parcelas de R$${valorParcela}`
+);
