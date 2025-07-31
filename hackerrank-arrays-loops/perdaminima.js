@@ -1,5 +1,4 @@
 const preco = [20, 15, 8, 2, 12];
-const compra = preco[1];
 
 function solucao(precos) {
   let menorprejuizo = Infinity;
